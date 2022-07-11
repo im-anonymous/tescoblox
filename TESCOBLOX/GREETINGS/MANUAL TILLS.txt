@@ -1,0 +1,5 @@
+Hello! My name is Beah, please scan your items infront of me then say "Done" when done :)
+
+Alright that is xx.xx, Please pay by scanning/inserting your card
+
+Have a great day! If you have any problems, Please create a ticket in the server.

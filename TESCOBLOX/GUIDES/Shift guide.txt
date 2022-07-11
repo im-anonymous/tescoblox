@@ -1,0 +1,29 @@
+Shift Information
+
+The host will be supervising all staff — you are to note down usernames of staff that acted professionally, and mature and then send the usernames to a member of the SMT team. All shifts should be 40 minutes long. If the attendance is poor, you may end the shift earlier than planned. 
+
+Please make sure that staff in-game are using **grammar,** and helping people well. Make sure that staff are not causing any arguments, and monitor the game for possible exploiters/glitchers/trollers. 
+
+After the shift ends, please take the attendance of staff. You may either bring them to the staff area using the :n command, or do a screenshot of the leaderboard. Attendance proof must be sent to a SMT member.
+
+Please announce the conclusion of shift in-game, but also on the group & discord server. You can use the format below:
+
+/session shift
+
+
+
+Promotional Shift Information
+
+The promotional shift may be from now on hosted by the ranks above Employment Assistant, hosting a promotional shift is not hard, however it is slightly different from the regular one. When the shift starts, announce it in the discord server using the /session shift command, HOWEVER when the announcement is posted, add a note saying it’s a promotional one below.
+
+You need to announce the shift in-game as well, do so using the :n command. Please announce it only once, and call all staff into the briefing room.
+
+When called, assign them to positions (i.e. patrol, selfcheck-out, etc.). You may then dismiss them, and supervise all of the staff members.
+
+Promotion limits:
+
+Max 4 promotions for Trainee Staff Members,
+Max 4 promotions for Junior Staff Members
+Max 2 promotions for Senior Staff Members
+
+Additionally (with a permission from Chief Staff Officer+), you may promote 1 Management Team member. 
