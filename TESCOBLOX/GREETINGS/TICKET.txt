@@ -1,6 +1,6 @@
-:wave: Greetings, my name is Beah, I am apart of the Tescoblox's Support Team, I will be taking over the ticket today, how can I be of assistance?
+:wave: Greetings, my name is [name], I am apart of the Tescoblox's Support Team, I will be taking over the ticket today, how can I be of assistance?
 
-:ticket: Your ticket has been resolved by, <@975468751254331402>. If you have any further issues please re-open a ticket!
+:ticket: Your ticket has been resolved by, <@[your id]>. If you have any further issues please re-open a ticket!
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
