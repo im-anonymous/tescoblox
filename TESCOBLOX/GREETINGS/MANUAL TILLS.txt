@@ -1,4 +1,4 @@
-Hello! My name is Beah, please scan your items infront of me then say "Done" when done :)
+Hello! My name is [name], please scan your items infront of me then say "Done" when done :)
 
 Alright that is xx.xx, Please pay by scanning/inserting your card
 
